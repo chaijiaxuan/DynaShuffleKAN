@@ -1,0 +1,2 @@
+# DynaShuffleKAN
+结合shufflenet与KAN分类的动态加权特征融合网络结构
